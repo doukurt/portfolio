@@ -1,4 +1,4 @@
-import GreetingsComponent from "../components/GreetingsComponent";
+import GreetingsComponent from "../components/greetingsComponent.js";
 
 const Index = () => {
     return (
